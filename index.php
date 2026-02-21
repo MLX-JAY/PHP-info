@@ -126,7 +126,7 @@
             <address>
                 <p>Réalisé par <strong>Feraoun Mohamed</strong></p>
                 <p>L2 Informatique - CY Cergy Paris Université</p>
-                <p>Janvier 2026</p>
+                <p>Février 2026</p>
             </address>
         </footer>
     </body>
